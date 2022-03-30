@@ -1,0 +1,21 @@
+.topHeader {
+    background-color: #6441a4;
+    padding: 10px;
+    border-bottom: solid 1px #cacaca;
+    color: white
+}
+.panelHeading {
+    background-color: #6441a4 !important;
+}
+
+.panelBody {
+    min-height: 450px;
+    max-height: 450px;
+    overflow-y: scroll;
+}
+
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 100%;
+}
